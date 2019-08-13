@@ -1,2 +1,3 @@
 # stock_price
-Get text message of stock price from Yahoo! Finance.
+Send a text message to your phone using an email account.
+The message consists of stock price and stock name pulled from Yahoo! Finance.
